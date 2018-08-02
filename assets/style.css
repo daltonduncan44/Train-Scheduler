@@ -1,0 +1,11 @@
+#mainContent {
+background-color: rgba(128, 128, 128, 0.178);
+color:white;
+font-weight: bolder;
+
+
+}
+
+body{
+    background-image: url(trainbody.jpg);
+}
